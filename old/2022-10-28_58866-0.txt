@@ -13,7 +13,7 @@ Title: The Murder on the Links
 Author: Agatha Christie
 
 Release Date: February 11, 2019 [eBook #58866]
-[Most recently updated: November 30, 2022]
+[Most recently updated: October 29, 2022]
 
 Language: English
 
@@ -26,7 +26,7 @@ Produced by: Alex Cabal
 
 
 
-cover
+cover 
 
 
 
@@ -1421,7 +1421,7 @@ there was a handsome oak sideboard with a tantalus on top. The curtains
 and _portière___ were of a soft dull green, and the carpet matched them
 in tone.
 
-Poirot stood a moment taking in the room, then he stepped forward,
+Poirot stood a moment talking in the room, then he stepped forward,
 passed his hand lightly over the backs of the leather chairs, picked up
 a magazine from the table, and drew a finger gingerly over the surface
 of the oak sideboard. His face expressed complete approval.
